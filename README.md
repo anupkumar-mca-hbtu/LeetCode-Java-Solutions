@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0268-missing-number) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Linked List
 |  |
 | ------- |
